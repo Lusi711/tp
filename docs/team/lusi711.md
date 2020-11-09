@@ -3,7 +3,7 @@
 ## Overview
 This project portfolio page aims to record my contributions to the Zer0Note project.
 
-**Zer0Note** is a note taking and organisation application meant for students(especially those who can type fast).
+**Zer0Note** is a note taking and organisation application meant for students (especially those who can type fast).
 We aim to help our target users integrate and speed up the note-taking and scheduling processes.
 
 **Zer0Note** consists of two modes: Timetable and Notebook. The Timetable mode manages the tasks input by the user while
